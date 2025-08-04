@@ -1,5 +1,7 @@
 # ez-notes.el 📝
 
+![ez-notes demo](https://private-user-images.githubusercontent.com/9705596/474215561-7678ab7b-d628-4145-9bba-11677e5d0d1b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQzNDIwMjQsIm5iZiI6MTc1NDM0MTcyNCwicGF0aCI6Ii85NzA1NTk2LzQ3NDIxNTU2MS03Njc4YWI3Yi1kNjI4LTQxNDUtOWJiYS0xMTY3N2U1ZDBkMWIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgwNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MDRUMjEwODQ0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzRjMWVhMDk0NjQxOTMwZGEwZTE5ZjQxYWQ3N2YyYjQ3ZmZmMDM1NWYyOTNiNTFlMTQ3NDQ5YTU2NzI1OTEyNiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Vtx78wUQjMthmN8gaWrwYvk1DGntlRZdQghg_MV9Zo0)
+
 > A minimalist, zero-dependency note management system for Emacs - the lightweight alternative to org-roam
 
 **ez-notes** is a drop-in replacement for org-roam that provides fast, clean note management without external dependencies. Built for users who want the core functionality of org-roam without the complexity.
@@ -8,7 +10,7 @@
 
 | Feature | ez-notes | org-roam | denote |
 |---------|----------|----------|--------|
-| **Zero Dependencies** | ✅ | ❌ (requires SQLite, emacsql) | ✅ |
+| **Zero Dependencies** | ✅ | ❌ (several) | ✅ |
 | **Clean Note Titles** | ✅ | ✅ | ❌ (shows file structure) |
 | **Fast Search** | ✅ (SQLite backend) | ✅ (SQLite) | ❌ (file scanning) |
 | **Org-ID Compatible** | ✅ (100% compatible) | ✅ | ❌ (different linking) |
