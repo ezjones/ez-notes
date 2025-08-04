@@ -1,0 +1,38 @@
+# Emacs temporary files
+*~
+\#*\#
+.\#*
+
+# Emacs backup files
+*.bak
+
+# Compiled Emacs Lisp
+*.elc
+
+# Package manager files
+.cask/
+dist/
+*.tar
+
+# ez-notes database and cache files
+.ez-notes.db
+.ez-notes-cache.el
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
