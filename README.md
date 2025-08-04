@@ -9,12 +9,12 @@
 | Feature | ez-notes | org-roam | denote |
 |---------|----------|----------|--------|
 | **Zero Dependencies** | ✅ | ❌ (requires SQLite, emacsql) | ✅ |
-| **Clean Note Titles** | ✅ (no timestamps/underscores) | ✅ | ❌ (shows file structure) |
-| **Fast Search** | ✅ (SQLite backend) | ✅ | ❌ (file scanning) |
+| **Clean Note Titles** | ✅ | ✅ | ❌ (shows file structure) |
+| **Fast Search** | ✅ (SQLite backend) | ✅ (SQLite) | ❌ (file scanning) |
 | **Org-ID Compatible** | ✅ (100% compatible) | ✅ | ❌ (different linking) |
 | **Instant Link Creation** | ✅ | ✅ | ✅ |
 | **Note from Selection** | ✅ | ✅ | ✅ |
-| **Backlinks** | ❌ | ✅ | ❌ |
+| **Backlinks** | ❌ | ✅ | ✅ |
 | **Graph View** | ❌ | ✅ | ❌ |
 | **Tags Support** | ✅ | ✅ | ✅ |
 
